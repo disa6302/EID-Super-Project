@@ -1,0 +1,99 @@
+body {
+    	font-family: 'Trebuchet MS', sans-serif;
+    	font-size: 16px;
+    	font-weight: 300;
+    	line-height: 30px;
+    	text-align: center;
+	background-image: url('shopping.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;	
+	overflow: hidden; 
+
+}
+
+
+
+
+p{
+  color: Black;
+  margin-bottom:0px;
+}
+
+h1 {
+    left: 100;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
+h1{
+  color: Black;
+}
+
+
+
+.inner-bg {
+    padding: 0px;
+}
+
+
+.top-info .text{
+	color: white;
+}
+
+
+.form-box {
+	float: right;
+	margin-top: 12%;
+	margin-right: 100px;
+}
+
+.form-group {
+	background-color:rgba(255, 255, 255, 0.1);
+	text-align:left;
+}
+
+.form-name {
+	border-radius: 4px 4px 4px 4px;
+	width: 100%;
+	background-color: rgba(0, 115, 230, 0.1);
+	font-family:inherit;
+	position:relative;
+}
+
+.form-location {
+	border-radius: 4px 4px 4px 4px;
+	width: 100%;
+	background-color: rgba(0, 115, 230, 0.1);
+	font-family:inherit;
+	position:relative;
+}
+
+.form-category {
+	border-radius: 4px 4px 4px 4px;
+	width: 100%;
+	background-color: rgba(0, 115, 230, 0.1);
+	font-family:inherit;
+	position:relative;
+}
+
+select {
+	position: relative;
+	overflow-y : scroll;
+	position: relative;
+}
+
+.drop  {
+	height: 30px;
+}
+
+
+.form-group-btn {
+	top: 6px;
+	background-color:rgba(255, 255, 255, 0.1);
+	text-align:center;
+	position: relative;
+}

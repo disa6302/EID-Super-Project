@@ -1,0 +1,79 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: center;
+    overflow: hidden;
+    background-image: url('shopping.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;	
+}
+
+h1 {
+    margin-top: 30px;
+    color: Black;
+}
+
+h2 {
+    left: 100;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+
+}
+
+
+
+#add {
+    float: right;
+    margin-top: 10%;
+    margin-right: 10%;
+    position: relative;
+    text-align: center;
+}
+
+#add-item {
+    float: right;
+    margin-top: 14%;
+    margin-left: 42.95%;
+    position: absolute;
+}
+
+#modify {
+    float: right;
+    margin-top: 18%;
+    margin-left: 44.05%;
+    position: absolute;
+}
+
+#delete {
+    float: right;
+    margin-top: 22%;
+    margin-left: 41.85%;
+    position: absolute;
+}
+
+#offers {
+    float: right;
+    margin-top: 26%;
+    margin-left: 42.8%;
+    position: absolute;
+}
+
+#logout {
+     margin-left: 52%;
+     margin-bottom: 0.1%;
+     position: absolute;
+     line-height: 12px;
+     width: 18px;
+     font-family: inherit;
+     margin-top: 20px;
+     margin-right: 70px;
+     position:absolute;
+     top:0;
+     right:0;
+}
